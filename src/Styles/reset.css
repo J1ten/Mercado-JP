@@ -7,4 +7,5 @@
   background: none;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
+  box-sizing: border-box;
 }
