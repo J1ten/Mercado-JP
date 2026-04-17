@@ -1,0 +1,8 @@
+.secao-2 {
+  background-color: #f8f9fa;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(1); /* deixa as setas escuras */
+}
